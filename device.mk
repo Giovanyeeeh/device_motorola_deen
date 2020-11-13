@@ -112,7 +112,8 @@ PRODUCT_PACKAGES += \
     libbson.vendor \
     libxml2 \
     libwui \
-    Snap
+    Snap \
+    vendor.qti.hardware.camera.device@1.0:64
 
 # Codec2 modules
 PRODUCT_PACKAGES += \

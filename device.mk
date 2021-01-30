@@ -482,3 +482,7 @@ PRODUCT_PACKAGES += \
 # Wi-Fi Display
 PRODUCT_PACKAGES += \
     libmediaextractorservice
+
+# FixME
+PRODUCT_PACKAGES += \
+    init.safailnet.rc

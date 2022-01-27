@@ -112,7 +112,6 @@ PRODUCT_PACKAGES += \
     libbson.vendor \
     libxml2 \
     libwui \
-    Snap \
     vendor.qti.hardware.camera.device@1.0:64
 
 # Cgroup and task_profiles

@@ -175,7 +175,6 @@ TARGET_SCREEN_DENSITY := 320
 
 # Kernel
 TARGET_KERNEL_ADDITIONAL_FLAGS := \
-    HOSTCFLAGS="-fuse-ld=lld -Wno-unused-command-line-argument"
 
 # Declare boot header
 BOARD_BOOT_HEADER_VERSION := 1

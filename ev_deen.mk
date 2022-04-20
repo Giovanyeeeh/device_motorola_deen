@@ -57,12 +57,12 @@ PRODUCT_NAME := ev_deen
 PRODUCT_MODEL := motorola one
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-        PRODUCT_NAME="Motorola One" \
-        TARGET_DEVICE="deen" \
-        PRIVATE_BUILD_DESC="deen-user 10 QPK30.54-22 6add release-keys"
+        PRODUCT_NAME="Google Pixel 6 Pro" \
+        TARGET_DEVICE="raven" \
+        PRIVATE_BUILD_DESC="raven-user 12 SP2A22.04-05 6add release-keys"
 
-BUILD_FINGERPRINT := google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys
+BUILD_FINGERPRINT := google/raven/raven:12/SP2A.220405.004/8233519:user/release-keys
 
 PRODUCT_OVERRIDE_INFO := true
-PRODUCT_OVERRIDE_FINGERPRINT := google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys
+PRODUCT_OVERRIDE_FINGERPRINT := google/raven/raven:12/SP2A.220405.004/8233519:user/release-keys
 

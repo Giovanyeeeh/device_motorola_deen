@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_deen.mk
+    $(LOCAL_DIR)/aosp_deen.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_deen-user \
-    arrow_deen-userdebug \
-    arrow_deen-eng
+    aosp_deen-user \
+    aosp_deen-userdebug \
+    aosp_deen-eng
